@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "title": "Nová dohoda o klimatu",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.6,
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+    "text": "Politici se shodli na nových opatřeních pro ochranu klimatu."
+  },
+  {
+    "id": 2,
+    "title": "Dezinformace vrcholí před volbami",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1487325248684-fd2a03c8b416?auto=format&fit=crop&w=1200&q=80",
+    "text": "Analytici zaznamenali rekordní množství falešných videí, která mají ovlivnit nerozhodnuté voliče ve vyrovnaných regionech."
+  },
+  {
+    "id": 3,
+    "title": "Participativní rozpočty získávají zastání",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.43,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Radnice testují zapojení obyvatel do rozhodování o části městských peněz a hlásí větší důvěru i transparentnost."
+  },
+  {
+    "id": 4,
+    "title": "Polarizační slogany ovládly televizní debatu",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.74,
+    "image": "https://images.unsplash.com/photo-1555967523-9713bf272108?auto=format&fit=crop&w=1200&q=80",
+    "text": "Místo podrobných plánů zaznívaly především útočné výkřiky, což podle komentátorů prohlubuje nedůvěru ke všem kandidátům."
+  },
+  {
+    "id": 5,
+    "title": "Mladí voliči mění priority kampaní",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.52,
+    "image": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&w=1200&q=80",
+    "text": "Strany slibují více podpory bydlení a digitálních práv poté, co účast mladých ve volbách dosáhla historického maxima."
+  },
+  {
+    "id": 6,
+    "title": "Lobbisté přečíslili veřejnost",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1528747045269-390fe33c19d4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Hlídací psi vlády upozorňují, že počet schůzek s firemními lobbisty mnohonásobně převyšuje setkání s občanskými organizacemi."
+  },
+  {
+    "id": 7,
+    "title": "Příhraniční obce zřizují společné rady",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "text": "Starostové na obou stranách hranice koordinují investice do dopravy, zdravotnictví i krizového řízení."
+  },
+  {
+    "id": 8,
+    "title": "Kampaň zaplavily politické deepfaky",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.89,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80",
+    "text": "Falešná videa se šíří rychleji než opravy, což vede část voličů k tomu, že nevěří žádnému zveřejněnému záznamu."
+  },
+  {
+    "id": 9,
+    "title": "Losované občanské panely posuzují regulaci AI",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Skupiny vybraných občanů slyší odborníky a navrhují, jak nastavit pravidla pro automatizované rozhodování."
+  },
+  {
+    "id": 10,
+    "title": "Protesty proti zákonu o sledování sílí",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.83,
+    "image": "https://images.unsplash.com/photo-1518605126733-39b7d303a87c?auto=format&fit=crop&w=1200&q=80",
+    "text": "Tisíce lidí demonstrují proti návrhu, který rozšiřuje pravomoci státu bez nezávislé kontroly."
+  },
+  {
+    "id": 11,
+    "title": "Obnovené mokřady tlumí městské záplavy",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.54,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vodohospodáři hlásí, že nové mokřady zadržely většinu dešťových srážek a vrátily do města migrující ptactvo."
+  },
+  {
+    "id": 12,
+    "title": "Jednání o plastové smlouvě opět zkrachovala",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.71,
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Delegace se nedohodly na závazném omezení jednorázových plastů, vědci to označují za promarněnou šanci."
+  },
+  {
+    "id": 13,
+    "title": "Regenerativní zemědělství získává půdu",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+    "text": "První farmáři hlásí zdravější půdu i vyšší odolnost proti suchu po nasazení střídání plodin a zelených hnojiv."
+  },
+  {
+    "id": 14,
+    "title": "Kouř z požárů dusí města celé týdny",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.88,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Meteorologové měří rekordní hodnoty prachových částic, které způsobily uzavření škol i sportovišť."
+  },
+  {
+    "id": 15,
+    "title": "Robotické lodě sbírají odpad, servis vázne",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Autonomní plavidla čistí hladinu moře, ale technici varují, že hloubkový odpad a údržba zůstávají problémem."
+  },
+  {
+    "id": 16,
+    "title": "Solární družstva snižují zimní účty",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.42,
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sousedé sdílející fotovoltaiku zajišťují dostupnou elektřinu i při výpadcích sítě a lákají další domácnosti."
+  },
+  {
+    "id": 17,
+    "title": "Moratorium na těžbu z mořského dna sílí",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1437382944886-45a9f73d4158?auto=format&fit=crop&w=1200&q=80",
+    "text": "Pobřežní státy se spojily a požadují stopku těžbě, dokud nebudou známy dlouhodobé ekologické dopady."
+  },
+  {
+    "id": 18,
+    "title": "Vodíkové sny rozdělují klimatology",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.66,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "text": "Část expertů varuje, že modrý vodík jen oddaluje skutečnou dekarbonizaci a kryje fosilní průmysl."
+  },
+  {
+    "id": 19,
+    "title": "Města znovu osazují kapesní parky",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Mini parky s domácí flórou přilákaly opylovače i obyvatele, kteří hledají stín v přehřátých ulicích."
+  },
+  {
+    "id": 20,
+    "title": "Klimatičtí uprchlíci testují azylové systémy",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Státy zápasí s tím, jak legálně přijímat lidi vyhnané přírodními katastrofami, pravidla zatím chybí."
+  },
+  {
+    "id": 21,
+    "title": "AI asistenti zrychlují lékařskou diagnostiku",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.57,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nemocnice nasazují asistenty, kteří upozorní na přehlédnuté nálezy ve skenech a tím šetří čas lékařů."
+  },
+  {
+    "id": 22,
+    "title": "Kurýři sledují algoritmické snižování mezd",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.78,
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sdílené tabulky ukazují, že platformy mění hodnocení a tím potají snižují výdělky ve špičce."
+  },
+  {
+    "id": 23,
+    "title": "Školy testují týden bez obrazovek",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.31,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Učitelé pozastavili zařízení a sledují, zda analogová spolupráce zlepší soustředění i vztahy ve třídě."
+  },
+  {
+    "id": 24,
+    "title": "Propouštění kvůli AI zasáhlo call centra",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1200&q=80",
+    "text": "Automatizace nahradila tisíce operátorů a vyvolala debatu o nové sociální síti."
+  },
+  {
+    "id": 25,
+    "title": "Města volí otevřený software",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.45,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Radnice přecházejí na open source platformy, aby snížily náklady a mohly sdílet kód mezi sebou."
+  },
+  {
+    "id": 26,
+    "title": "Rozhraní mozek-počítač budí etické obavy",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.9,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Odborníci varují, že komerční implantáty mohou zpeněžit mozková data bez jasného souhlasu."
+  },
+  {
+    "id": 27,
+    "title": "Síťové sítě připojují odlehlé obce",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.4,
+    "image": "https://images.unsplash.com/photo-1475906089153-644d9452ce87?auto=format&fit=crop&w=1200&q=80",
+    "text": "Komunitní mesh sítě zajišťují internet pro telemedicínu a malé podniky v regionech bez infrastruktury."
+  },
+  {
+    "id": 28,
+    "title": "Horečka kolem kvantových startupů roste",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.7,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "text": "Investoři pumpují miliardy do firem bez jasných reálných aplikací a analytici varují před bublinou."
+  },
+  {
+    "id": 29,
+    "title": "Tvůrci aplikací zavádějí šetrné časovače",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.33,
+    "image": "https://images.unsplash.com/photo-1523473827534-0648f9239fbf?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nové funkce připomínají pauzy a zpomalují feed, aby lidé nebyli v zajetí nekonečného scrollování."
+  },
+  {
+    "id": 30,
+    "title": "Deepfake podvody imitují rodinné hovory",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1523473827534-0648f9239fbf?auto=format&fit=crop&w=1200&q=80",
+    "text": "Banky zavádějí vícestupňové ověření, protože podvodníci napodobují hlasy příbuzných v reálném čase."
+  },
+  {
+    "id": 31,
+    "title": "Nezávislá kina oživují komunitní vyprávění",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Místní kina dávají prostor amatérům, kteří mapují příběhy čtvrtí a setkávají se s živou odezvou."
+  },
+  {
+    "id": 32,
+    "title": "Streamovací giganti tlačí hudebníky ke zdi",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.76,
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Autorské honoráře klesají, protože platformy spojují předplatné se svými zařízeními."
+  },
+  {
+    "id": 33,
+    "title": "Virtuální muzea otevírají časové kapsle",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.29,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Návštěvníci se mohou projít digitální rekonstrukcí rozhodujících týdnů historie a interagovat s exponáty."
+  },
+  {
+    "id": 34,
+    "title": "Kulturní války míří na místní knihovny",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.8,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1200&q=80",
+    "text": "Snahy o zákaz knih vyvolávají ostré spory na zastupitelstvech a knihovníci čelí výhrůžkám."
+  },
+  {
+    "id": 35,
+    "title": "Sousedské sbory propojují jazyky",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.37,
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Místní sbory zpívají vícejazyčné aranže a pomáhají nově příchozím zakořenit v komunitě."
+  },
+  {
+    "id": 36,
+    "title": "Krátká dramata zvyšují únavu z bingeování",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.62,
+    "image": "https://images.unsplash.com/photo-1464375117522-1311d6a5b81a?auto=format&fit=crop&w=1200&q=80",
+    "text": "Psychologové upozorňují, že rychlé cliffhangery drží diváky online, ale zanechávají emoční vyčerpání."
+  },
+  {
+    "id": 37,
+    "title": "Ziny dokumentují proměny čtvrtí",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dobrovolníci sbírají fotografie a vzpomínky, aby zachytili, jak se mění ulice blok po bloku."
+  },
+  {
+    "id": 38,
+    "title": "VR koncerty stírají hranici mezi fanoušky a idoly",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.57,
+    "image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Fanoušci mohou upravovat scénu v reálném čase, kritici ale řeší, kde končí autenticita."
+  },
+  {
+    "id": 39,
+    "title": "Dotace míří hlavně na velkolepé festivaly",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.73,
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Menší galerie varují, že velké akce vysávají veřejné finance a nezbývá na experimentální tvorbu."
+  },
+  {
+    "id": 40,
+    "title": "Festival oprav ukazuje, jak prodloužit život věcí",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.35,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Umělci a kutilové učí veřejnost opravovat oblečení i spotřebiče a proměňují opravu v kulturní událost."
+  },
+  {
+    "id": 41,
+    "title": "Spánkové technologie pod drobnohledem vědců",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.34,
+    "image": "https://images.unsplash.com/photo-1518214199817-0f7941c2d9c9?auto=format&fit=crop&w=1200&q=80",
+    "text": "Výzkumníci zkoumají, zda populární wearables skutečně zlepšují spánek, nebo jen zvyšují úzkost."
+  },
+  {
+    "id": 42,
+    "title": "Zdravotní pouště se rozšiřují po uzavřených klinikách",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1485841890310-6a055c88698a?auto=format&fit=crop&w=1200&q=80",
+    "text": "Obyvatelé venkova musí jezdit hodiny za základní péčí, protože region přišel o několik ordinací."
+  },
+  {
+    "id": 43,
+    "title": "Komunitní kuchyně řeší mezeru ve výživě",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.46,
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dobrovolní kuchaři učí rodiny levným receptům a pomáhají překlenout drahé období."
+  },
+  {
+    "id": 44,
+    "title": "Wellness influenceři šíří pochybné kúry",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=1200&q=80",
+    "text": "Lékaři varují, že virální detox programy mohou vést k nebezpečným nerovnováhám."
+  },
+  {
+    "id": 45,
+    "title": "Teleterapie zkracuje čekání na psychologa",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.52,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dostupné aplikace přinesly konzultace do regionů, kde dříve odborníci chyběli."
+  },
+  {
+    "id": 46,
+    "title": "Rezistence na antibiotika ohrožuje menší zákroky",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.83,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nemocnice odkládají plánované operace, protože odolné bakterie se šíří napříč odděleními."
+  },
+  {
+    "id": 47,
+    "title": "Koncept modrých zón inspiruje městské plánovače",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.37,
+    "image": "https://images.unsplash.com/photo-1459478309853-2c33a60058e7?auto=format&fit=crop&w=1200&q=80",
+    "text": "Města zavádějí více zeleně a komunitních aktivit podle příkladů dlouhověkých regionů."
+  },
+  {
+    "id": 48,
+    "title": "Mikroplasty nalezené v placentách",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.9,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nová studie podnítila výzvy k přísnější kontrole znečištění, když vědci objevili částice v placentách."
+  },
+  {
+    "id": 49,
+    "title": "Veřejné tělocvičny vracejí život do center",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.33,
+    "image": "https://images.unsplash.com/photo-1483691278019-cb7253bee49f?auto=format&fit=crop&w=1200&q=80",
+    "text": "Zaniklá obchodní centra se mění na bezplatné posilovny a lákají zaměstnance na pravidelný pohyb."
+  },
+  {
+    "id": 50,
+    "title": "Biohackerské kluby překračují hranice medicíny",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.68,
+    "image": "https://images.unsplash.com/photo-1452724931113-5ab6340ce080?auto=format&fit=crop&w=1200&q=80",
+    "text": "Domácí experimenty s léčivy vyvolávají obavy úřadů kvůli chybějícím bezpečnostním standardům."
+  },
+  {
+    "id": 51,
+    "title": "Aplikace vzájemné pomoci propojují sousedy",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.42,
+    "image": "https://images.unsplash.com/photo-1515162305284-7f4f1e69ffaf?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dobrovolníci reagují během minut na žádosti o nákup, léky nebo dopravu."
+  },
+  {
+    "id": 52,
+    "title": "Práce odkudkoli rozděluje týmy",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.61,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "text": "Hybridní firmy řeší napětí mezi zaměstnanci v kanceláři a těmi, kteří jsou na dálku téměř neviditelní."
+  },
+  {
+    "id": 53,
+    "title": "Komunitní zahrady snižují náklady na jídlo",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sousedé proměnili prázdné pozemky v zahrady a sdílejí úrodu i zkušenosti."
+  },
+  {
+    "id": 54,
+    "title": "Online hněv vyčerpává dobrovolné moderátory",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.72,
+    "image": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+    "text": "Koordinované kampaně vedou k rezignaci správců komunitních fór, kteří čelí výhrůžkám."
+  },
+  {
+    "id": 55,
+    "title": "Pečovatelská družstva sdílí péči o seniory",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Rodiny si rozdělují služby a společně financují asistenty, čímž snižují vyčerpání pečujících."
+  },
+  {
+    "id": 56,
+    "title": "Automatizace zvyšuje nejistotu služebních profesí",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.75,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Algoritmické plánování směn přináší zaměstnancům nepravidelné hodiny a výpadky příjmů."
+  },
+  {
+    "id": 57,
+    "title": "Občanská věda mapuje městské tepelné ostrovy",
+    "topic": "society",
+    "sentiment": "neutral",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Obyvatelé měří teploty na ulicích a tlačí na úředníky, aby přidali stromy a stín."
+  },
+  {
+    "id": 58,
+    "title": "Mikrobyty testují hranice komfortu",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.64,
+    "image": "https://images.unsplash.com/photo-1478479474071-8a3014d422c8?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vývojáři uvádějí miniaturní byty jako dostupné řešení, nájemníci si však stěžují na stres a izolaci."
+  },
+  {
+    "id": 59,
+    "title": "Časové banky obnovují sousedskou důvěru",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.35,
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80",
+    "text": "Lidé si vyměňují hodinu za hodinu služeb a budují sítě vzájemné podpory."
+  },
+  {
+    "id": 60,
+    "title": "Generativní memy prohlubují polarizaci",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1523473827534-0648f9239fbf?auto=format&fit=crop&w=1200&q=80",
+    "text": "Cílené memové kampaně zneužívají kulturní tření a posilují uzavírání lidí do názorových bublin."
+  }
+]

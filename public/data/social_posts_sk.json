@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.74,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 2,
+    "title": "Stretnutie lídrov",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.92,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 3,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "neutrálny",
+    "intensity": 0.66,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 4,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.27,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Ľudia sadia stromy v mestskom parku."
+  },
+  {
+    "id": 5,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.42,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Projekt podporuje využívanie solárnej energie."
+  },
+  {
+    "id": 6,
+    "title": "Rozpočet na budúci rok",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.66,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 7,
+    "title": "Inovácie v AI",
+    "topic": "technológie",
+    "sentiment": "negatívny",
+    "intensity": 0.96,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Chytré zariadenia pomáhajú v domácnostiach."
+  },
+  {
+    "id": 8,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "pozitívny",
+    "intensity": 0.01,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 9,
+    "title": "Festival umenia",
+    "topic": "kultúra",
+    "sentiment": "negatívny",
+    "intensity": 0.4,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 10,
+    "title": "Miestne tradície",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.37,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 11,
+    "title": "Sociálna zmena",
+    "topic": "spoločnosť",
+    "sentiment": "pozitívny",
+    "intensity": 0.14,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 12,
+    "title": "Tipy na kondíciu",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.89,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 13,
+    "title": "Komunitné podujatie",
+    "topic": "spoločnosť",
+    "sentiment": "pozitívny",
+    "intensity": 0.45,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 14,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.15,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 15,
+    "title": "Zelená energia",
+    "topic": "ekológia",
+    "sentiment": "neutrálny",
+    "intensity": 0.68,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 16,
+    "title": "Nový liek",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.03,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 17,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.35,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Študenti zakladajú charitatívny projekt."
+  },
+  {
+    "id": 18,
+    "title": "Knižný veľtrh",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.65,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Umelecká komunita sa stretla na výstave."
+  },
+  {
+    "id": 19,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "negatívny",
+    "intensity": 0.17,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 20,
+    "title": "Zmena klímy",
+    "topic": "ekológia",
+    "sentiment": "neutrálny",
+    "intensity": 0.78,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Ľudia sadia stromy v mestskom parku."
+  },
+  {
+    "id": 21,
+    "title": "Komunitné podujatie",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.97,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 22,
+    "title": "Novinky v robotike",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.81,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Chytré zariadenia pomáhajú v domácnostiach."
+  },
+  {
+    "id": 23,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.16,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 24,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.92,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Miestni hudobníci pripravujú veľký koncert."
+  },
+  {
+    "id": 25,
+    "title": "Budúcnosť internetu",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.63,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Chytré zariadenia pomáhajú v domácnostiach."
+  },
+  {
+    "id": 26,
+    "title": "Zmena klímy",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.86,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Projekt podporuje využívanie solárnej energie."
+  },
+  {
+    "id": 27,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.33,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 28,
+    "title": "Budúcnosť internetu",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.64,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 29,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "neutrálny",
+    "intensity": 0.85,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 30,
+    "title": "Projekt čistej vody",
+    "topic": "ekológia",
+    "sentiment": "pozitívny",
+    "intensity": 0.97,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 31,
+    "title": "Nový film",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.34,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 32,
+    "title": "Novinky v robotike",
+    "topic": "technológie",
+    "sentiment": "neutrálny",
+    "intensity": 0.44,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 33,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "neutrálny",
+    "intensity": 0.59,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 34,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.88,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 35,
+    "title": "Miestne tradície",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.62,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 36,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.96,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 37,
+    "title": "Trendy v technológiách",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.59,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 38,
+    "title": "Zdravý život",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.26,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 39,
+    "title": "Stretnutie lídrov",
+    "topic": "politika",
+    "sentiment": "neutrálny",
+    "intensity": 0.83,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 40,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.36,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 41,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.69,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 42,
+    "title": "Nový film",
+    "topic": "kultúra",
+    "sentiment": "negatívny",
+    "intensity": 0.36,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 43,
+    "title": "Komunitné podujatie",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.27,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 44,
+    "title": "Recyklačná iniciatíva",
+    "topic": "ekológia",
+    "sentiment": "neutrálny",
+    "intensity": 0.48,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Projekt podporuje využívanie solárnej energie."
+  },
+  {
+    "id": 45,
+    "title": "Rozpočet na budúci rok",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.38,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 46,
+    "title": "Hudobný večer",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.77,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  },
+  {
+    "id": 47,
+    "title": "Inovácie v AI",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.27,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 48,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.5,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Miestne voľby prinášajú nové očakávania."
+  },
+  {
+    "id": 49,
+    "title": "Verejná bezpečnosť",
+    "topic": "spoločnosť",
+    "sentiment": "pozitívny",
+    "intensity": 0.33,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 50,
+    "title": "Nový liek",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.44,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 51,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "neutrálny",
+    "intensity": 0.83,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 52,
+    "title": "Zmeny vo vláde",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.01,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 53,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "neutrálny",
+    "intensity": 0.46,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Miestne voľby prinášajú nové očakávania."
+  },
+  {
+    "id": 54,
+    "title": "Zelená energia",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.75,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Ľudia sadia stromy v mestskom parku."
+  },
+  {
+    "id": 55,
+    "title": "Chytré zariadenia",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.05,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 56,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.96,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 57,
+    "title": "Budúcnosť internetu",
+    "topic": "technológie",
+    "sentiment": "neutrálny",
+    "intensity": 0.37,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 58,
+    "title": "Stretnutie lídrov",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.16,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 59,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.61,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Lekári odporúčajú viac pohybu na čerstvom vzduchu."
+  },
+  {
+    "id": 60,
+    "title": "Trendy v technológiách",
+    "topic": "technológie",
+    "sentiment": "neutrálny",
+    "intensity": 0.4,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 61,
+    "title": "Inovácie v AI",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.59,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Nové nástroje umelej inteligencie uľahčujú prácu."
+  },
+  {
+    "id": 62,
+    "title": "Nový liek",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.64,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 63,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "neutrálny",
+    "intensity": 0.91,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 64,
+    "title": "Ochrana lesov",
+    "topic": "ekológia",
+    "sentiment": "neutrálny",
+    "intensity": 0.72,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Dobrovoľníci čistia rieky v regióne."
+  },
+  {
+    "id": 65,
+    "title": "Budúcnosť internetu",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.33,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Chytré zariadenia pomáhajú v domácnostiach."
+  },
+  {
+    "id": 66,
+    "title": "Festival umenia",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.24,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Miestni hudobníci pripravujú veľký koncert."
+  },
+  {
+    "id": 67,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.33,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 68,
+    "title": "Knižný veľtrh",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.7,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Umelecká komunita sa stretla na výstave."
+  },
+  {
+    "id": 69,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.38,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 70,
+    "title": "Tipy na kondíciu",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.81,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Lekári odporúčajú viac pohybu na čerstvom vzduchu."
+  },
+  {
+    "id": 71,
+    "title": "Inovácie v AI",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.7,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Roboti zlepšujú efektivitu výroby."
+  },
+  {
+    "id": 72,
+    "title": "Moderná nemocnica",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.09,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 73,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.7,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 74,
+    "title": "Knižný veľtrh",
+    "topic": "kultúra",
+    "sentiment": "pozitívny",
+    "intensity": 0.01,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Miestni hudobníci pripravujú veľký koncert."
+  },
+  {
+    "id": 75,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.02,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 76,
+    "title": "Stretnutie lídrov",
+    "topic": "politika",
+    "sentiment": "neutrálny",
+    "intensity": 0.09,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Miestne voľby prinášajú nové očakávania."
+  },
+  {
+    "id": 77,
+    "title": "Komunitné podujatie",
+    "topic": "spoločnosť",
+    "sentiment": "pozitívny",
+    "intensity": 0.12,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 78,
+    "title": "Komunitné podujatie",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.45,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 79,
+    "title": "Moderná nemocnica",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.15,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 80,
+    "title": "Sociálna zmena",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.86,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 81,
+    "title": "Zelená energia",
+    "topic": "ekológia",
+    "sentiment": "negatívny",
+    "intensity": 0.34,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Ľudia sadia stromy v mestskom parku."
+  },
+  {
+    "id": 82,
+    "title": "Verejná bezpečnosť",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.62,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Dobrovoľníci pomáhajú zlepšiť mesto."
+  },
+  {
+    "id": 83,
+    "title": "Tipy na kondíciu",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.11,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 84,
+    "title": "Zmeny vo vláde",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.15,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 85,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "pozitívny",
+    "intensity": 0.44,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Začína sa nová diskusia o reformách."
+  },
+  {
+    "id": 86,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.34,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 87,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.09,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Lekári odporúčajú viac pohybu na čerstvom vzduchu."
+  },
+  {
+    "id": 88,
+    "title": "Recyklačná iniciatíva",
+    "topic": "ekológia",
+    "sentiment": "pozitívny",
+    "intensity": 0.56,
+    "image": "https://source.unsplash.com/featured/?nature,ecology",
+    "text": "Projekt podporuje využívanie solárnej energie."
+  },
+  {
+    "id": 89,
+    "title": "Trendy v technológiách",
+    "topic": "technológie",
+    "sentiment": "pozitívny",
+    "intensity": 0.12,
+    "image": "https://source.unsplash.com/featured/?technology",
+    "text": "Nové nástroje umelej inteligencie uľahčujú prácu."
+  },
+  {
+    "id": 90,
+    "title": "Tipy na kondíciu",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.36,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Nová vakcína chráni pred sezónnou chorobou."
+  },
+  {
+    "id": 91,
+    "title": "Zmeny vo vláde",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.17,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Miestne voľby prinášajú nové očakávania."
+  },
+  {
+    "id": 92,
+    "title": "Projekt pre mládež",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.96,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 93,
+    "title": "Nový liek",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.84,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 94,
+    "title": "Tipy na kondíciu",
+    "topic": "zdravie",
+    "sentiment": "pozitívny",
+    "intensity": 0.07,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Lekári odporúčajú viac pohybu na čerstvom vzduchu."
+  },
+  {
+    "id": 95,
+    "title": "Miestne voľby",
+    "topic": "politika",
+    "sentiment": "negatívny",
+    "intensity": 0.75,
+    "image": "https://source.unsplash.com/featured/?politics",
+    "text": "Občania hovoria o plánoch vlády."
+  },
+  {
+    "id": 96,
+    "title": "Duševné zdravie",
+    "topic": "zdravie",
+    "sentiment": "neutrálny",
+    "intensity": 0.91,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 97,
+    "title": "Moderná nemocnica",
+    "topic": "zdravie",
+    "sentiment": "negatívny",
+    "intensity": 0.8,
+    "image": "https://source.unsplash.com/featured/?health,wellness",
+    "text": "Rastie záujem o duševnú pohodu."
+  },
+  {
+    "id": 98,
+    "title": "Sociálna zmena",
+    "topic": "spoločnosť",
+    "sentiment": "negatívny",
+    "intensity": 0.57,
+    "image": "https://source.unsplash.com/featured/?society,people",
+    "text": "Mesto plánuje nové verejné priestory."
+  },
+  {
+    "id": 99,
+    "title": "Festival umenia",
+    "topic": "kultúra",
+    "sentiment": "negatívny",
+    "intensity": 0.29,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Miestni hudobníci pripravujú veľký koncert."
+  },
+  {
+    "id": 100,
+    "title": "Knižný veľtrh",
+    "topic": "kultúra",
+    "sentiment": "neutrálny",
+    "intensity": 0.78,
+    "image": "https://source.unsplash.com/featured/?culture,art",
+    "text": "Nový film si získal priazeň divákov."
+  }
+]

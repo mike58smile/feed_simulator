@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "title": "Bezpečnost dat ve městě",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.68,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 2,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.43,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 3,
+    "title": "Úspora vody v obcích",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 4,
+    "title": "Dobrovolnická pomoc seniorům",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 5,
+    "title": "Volby a místní aktivity — pokračování",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.61,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 6,
+    "title": "Zalesňovací projekt",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.57,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 7,
+    "title": "Diskuse o dopravě",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.71,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 8,
+    "title": "Nové komunitní Wi‑Fi",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 9,
+    "title": "Startup testuje AI",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.67,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 10,
+    "title": "Zachování mokřadů — pokračování",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.7,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 11,
+    "title": "Čistší řeky",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.54,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 12,
+    "title": "Nová místní iniciativa",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 13,
+    "title": "Čistší řeky",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.59,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 14,
+    "title": "Aplikace pro sousedy",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.88,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 15,
+    "title": "Místní galerie představuje výstavu — pokračování",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 16,
+    "title": "Debata o rozpočtu",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 17,
+    "title": "Čistší řeky",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 18,
+    "title": "Nové komunitní Wi‑Fi",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.3,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 19,
+    "title": "Lokální program pohybu",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.61,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 20,
+    "title": "Knižní burza u parku — pokračování",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.78,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 21,
+    "title": "Zachování mokřadů",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.85,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 22,
+    "title": "Volby a místní aktivity",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.51,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 23,
+    "title": "Smart řešení pro dopravu",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 24,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 25,
+    "title": "Zachování mokřadů — pokračování",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.61,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 26,
+    "title": "Poradna duševního zdraví",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.5,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 27,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 28,
+    "title": "Aplikace pro sousedy",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.67,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 29,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.31,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 30,
+    "title": "Volby a místní aktivity — pokračování",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 31,
+    "title": "Aplikace pro sousedy",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.67,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 32,
+    "title": "Workshop tradičních řemesel",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.6,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 33,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.6,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 34,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.73,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 35,
+    "title": "Smart řešení pro dopravu — pokračování",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 36,
+    "title": "Divadelní večer na náměstí",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 37,
+    "title": "Festival sousedských filmů",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 38,
+    "title": "Festival sousedských filmů",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 39,
+    "title": "Poradna duševního zdraví",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.5,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 40,
+    "title": "Transparentnost ve veřejných zakázkách — pokračování",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 41,
+    "title": "Zachování mokřadů",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.88,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 42,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.72,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 43,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 44,
+    "title": "Dobrovolnická pomoc seniorům",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.73,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 45,
+    "title": "Diskuse o dopravě — pokračování",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.57,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 46,
+    "title": "Místní recyklační akce",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 47,
+    "title": "Nové komunitní Wi‑Fi",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.89,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 48,
+    "title": "Divadelní večer na náměstí",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.62,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 49,
+    "title": "Workshop tradičních řemesel",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 50,
+    "title": "Lokální program pohybu — pokračování",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 51,
+    "title": "Smart řešení pro dopravu",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 52,
+    "title": "Dobrovolnická pomoc seniorům",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 53,
+    "title": "Debata o rozpočtu",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.34,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 54,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 55,
+    "title": "Místní recyklační akce — pokračování",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 56,
+    "title": "Místní recyklační akce",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.65,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 57,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 58,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.52,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 59,
+    "title": "Volby a místní aktivity",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.68,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 60,
+    "title": "Místní recyklační akce — pokračování",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 61,
+    "title": "Místní recyklační akce",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.61,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 62,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.64,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 63,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 64,
+    "title": "Poradna duševního zdraví",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 65,
+    "title": "Zdravé stravování pro školy — pokračování",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 66,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.65,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 67,
+    "title": "Zalesňovací projekt",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.56,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 68,
+    "title": "Nové komunitní Wi‑Fi",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 69,
+    "title": "Poradna duševního zdraví",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.6,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 70,
+    "title": "Festival sousedských filmů — pokračování",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.3,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 71,
+    "title": "Aplikace pro sousedy",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.7,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 72,
+    "title": "Divadelní večer na náměstí",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.58,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 73,
+    "title": "Úspora vody v obcích",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.57,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 74,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.64,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 75,
+    "title": "Zachování mokřadů — pokračování",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 76,
+    "title": "Startup testuje AI",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 77,
+    "title": "Zalesňovací projekt",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 78,
+    "title": "Smart řešení pro dopravu",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 79,
+    "title": "Smart řešení pro dopravu",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.72,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 80,
+    "title": "Poradna duševního zdraví — pokračování",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 81,
+    "title": "Zalesňovací projekt",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 82,
+    "title": "Úspora vody v obcích",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.5,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 83,
+    "title": "Knižní burza u parku",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 84,
+    "title": "Nová místní iniciativa",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 85,
+    "title": "Místní recyklační akce — pokračování",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.55,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 86,
+    "title": "Očkovací kampaň v obci",
+    "topic": "health",
+    "sentiment": "neutral",
+    "intensity": 0.85,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 87,
+    "title": "Místní galerie představuje výstavu",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.73,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 88,
+    "title": "Aplikace pro sousedy",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 89,
+    "title": "Debata o rozpočtu",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.35,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 90,
+    "title": "Diskuse o dopravě — pokračování",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.54,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 91,
+    "title": "Čistší řeky",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 92,
+    "title": "Volby a místní aktivity",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.56,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 93,
+    "title": "Bezpečnost dat ve městě",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.52,
+    "image": "https://images.unsplash.com/photo-1516321310766-d9c6e1f2126f?w=800&q=80",
+    "text": "Nové řešení zjednodušuje každodenní úkony."
+  },
+  {
+    "id": 94,
+    "title": "Festival sousedských filmů",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.53,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d4?w=800&q=80",
+    "text": "Událost přitáhla místní umělce i rodiny."
+  },
+  {
+    "id": 95,
+    "title": "Zalesňovací projekt — pokračování",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 96,
+    "title": "Poradna duševního zdraví",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  },
+  {
+    "id": 97,
+    "title": "Zalesňovací projekt",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 98,
+    "title": "Čistší řeky",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Dobrovolníci se zapojili do úklidu a výsadby stromků."
+  },
+  {
+    "id": 99,
+    "title": "Nová místní iniciativa",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.54,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Obyvatelé diskutují o dopadech na místní komunitu."
+  },
+  {
+    "id": 100,
+    "title": "Zdravé stravování pro školy — pokračování",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Program pomáhá zvýšit dostupnost péče pro všechny."
+  }
+]

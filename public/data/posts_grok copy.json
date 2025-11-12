@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 1,
+    "title": "Lokální volby přinášejí změnu",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.55,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Místní obyvatelé volí nové zastupitele, kteří slibují lepší veřejnou dopravu a parky v městě."
+  },
+  {
+    "id": 2,
+    "title": "Korupční skandál otřásá vládou",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vyšetřování odhalilo nekalé praktiky v ministerstvu, což vede k protestům občanů."
+  },
+  {
+    "id": 3,
+    "title": "Občané podporují zelené politiky",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.46,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Petice za více recyklačních stanovišť získala tisíce podpisů v krátkém čase."
+  },
+  {
+    "id": 4,
+    "title": "Medialní kampaň zkresluje fakta",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.75,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Falešné zprávy šířené v sociálních sítích ovlivňují názory mnoha voličů."
+  },
+  {
+    "id": 5,
+    "title": "Mladí aktivisté mění debatu",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.51,
+    "image": "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Skupiny mladých lidí prosazují témata jako vzdělávání a rovnost příležitostí."
+  },
+  {
+    "id": 6,
+    "title": "Lobbying brzdí reformy",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.76,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Velké firmy ovlivňují zákony ve svůj prospěch, což zdržuje potřebné změny."
+  },
+  {
+    "id": 7,
+    "title": "Regionální spolupráce roste",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.37,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sousední kraje se dohodly na společných projektech pro turismus a dopravu."
+  },
+  {
+    "id": 8,
+    "title": "Falešné zprávy šokují voliče",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.85,
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Deepfake videa s politiky vedou k zmatku a nedůvěře v médiích."
+  },
+  {
+    "id": 9,
+    "title": "Občané radí o technologiích",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.4,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Vybrané skupiny diskutují o regulacích pro drony a sledování v městech."
+  },
+  {
+    "id": 10,
+    "title": "Demonstrace za soukromí sílí",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.8,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Lidé protestují proti novému zákonu, který umožňuje sběr osobních dat."
+  },
+  {
+    "id": 11,
+    "title": "Nové lesy chrání řeky",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.53,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Výsadba stromů podél břehů snižuje erozi a zlepšuje kvalitu vody."
+  },
+  {
+    "id": 12,
+    "title": "Přehřívání oceánů ničí korály",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.7,
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vědci hlásí masové blednutí korálů v teplých vodách, což ohrožuje mořský život."
+  },
+  {
+    "id": 13,
+    "title": "Organické farmy rostou rychle",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Farmáři přecházejí na přírodní metody, což zvyšuje biodiverzitu v půdě."
+  },
+  {
+    "id": 14,
+    "title": "Sucha sužuje úrodu po celé zemi",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Nedostatek dešťů vede k nižším výnosům a hrozbě hladomoru v suchých regionech."
+  },
+  {
+    "id": 15,
+    "title": "Čistící drony testují řeky",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.35,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+    "text": "Technologie sbírá plastový odpad z vod, ale efektivita ještě potřebuje vylepšení."
+  },
+  {
+    "id": 16,
+    "title": "Větrné farmy dodávají čistou energii",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nové turbíny snižují emise a podporují udržitelný rozvoj v odlehlých oblastech."
+  },
+  {
+    "id": 17,
+    "title": "Zákaz těžby v národních parcích",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.5,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vláda chrání přírodní oblasti před průmyslovou exploatazí pro budoucí generace."
+  },
+  {
+    "id": 18,
+    "title": "Fosální paliva brzdí pokrok",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.65,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=80",
+    "text": "Subvence na uhlí oddalují přechod na obnovitelné zdroje energie."
+  },
+  {
+    "id": 19,
+    "title": "Střešní zahrady chladí budovy",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Zelené střechy snižují teplotu v městech a podporují včely a ptáky."
+  },
+  {
+    "id": 20,
+    "title": "Klimatické migrace narůstají",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.8,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Miliony lidí opouštějí domovy kvůli povodním a suchu, systémy azylu selhávají."
+  },
+  {
+    "id": 21,
+    "title": "VR pomáhá v terapii",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.56,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=80",
+    "text": "Virtuální realita léčí fobii a úzkosti efektivněji než tradiční metody."
+  },
+  {
+    "id": 22,
+    "title": "Algoritmy diskriminují v práci",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Automatické systémy výběru zaměstnanců upřednostňují určité skupiny neoprávněně."
+  },
+  {
+    "id": 23,
+    "title": "Školy integrují kódování",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.3,
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1200&q=80",
+    "text": "Děti se učí programovat od základní školy, což rozvíjí logické myšlení."
+  },
+  {
+    "id": 24,
+    "title": "AI nahrazuje umělce",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.85,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "text": "Generační nástroje vytvářejí umění rychle, ale ohrožují živobytí tvůrců."
+  },
+  {
+    "id": 25,
+    "title": "Otvorený kód pro veřejnost",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Komunity sdílejí software pro školy, což šetří rozpočty a zvyšuje bezpečnost."
+  },
+  {
+    "id": 26,
+    "title": "Datové úniky ohrožují soukromí",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.91,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Hackeři získali osobní údaje milionů uživatelů z velkých platforem."
+  },
+  {
+    "id": 27,
+    "title": "Satelitní internet spojuje vesnice",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nová síť přináší rychlý přístup k internetu i do vzdálených oblastí."
+  },
+  {
+    "id": 28,
+    "title": "Kvantové počítače slibují revoluci",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.69,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=80",
+    "text": "Rychlý rozvoj ohrožuje současnou kryptografii, což vyžaduje nové standardy."
+  },
+  {
+    "id": 29,
+    "title": "Aplikace podporují mindfulness",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Denní cvičení v appkách pomáhají uživatelům zvládat stres efektivně."
+  },
+  {
+    "id": 30,
+    "title": "Cyberútoky paralyzují města",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.88,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Ransomware blokuje veřejné služby a vyžaduje okamžitou reakci expertů."
+  },
+  {
+    "id": 31,
+    "title": "Lokální umělci dostávají podporu",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.4,
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
+    "text": "Grantové programy pomáhají malým galeriím a koncertům v regionech."
+  },
+  {
+    "id": 32,
+    "title": "Cenzura omezuje svobodu slova",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.75,
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Platformy mažou obsah, což vyvolává debatu o hranicích moderování."
+  },
+  {
+    "id": 33,
+    "title": "Digitální archivy zachraňují tradice",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.28,
+    "image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Muzea skenují artefakty a dělají je dostupné pro širokou veřejnost online."
+  },
+  {
+    "id": 34,
+    "title": "Knihy v ohrožení kvůli sporům",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1200&q=80",
+    "text": "Konzervativní skupiny chtějí odstranit určité tituly z veřejných knihoven."
+  },
+  {
+    "id": 35,
+    "title": "Jazykové kluby spojují lidi",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Schůzky pro učení jazyků budují přátelství mezi různými kulturami."
+  },
+  {
+    "id": 36,
+    "title": "Serály způsobují závislost",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.63,
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
+    "text": "Dlouhé sezóny drží diváky u obrazovek, což ovlivňuje spánek a produktivitu."
+  },
+  {
+    "id": 37,
+    "title": "Lokální festivaly oživují ulice",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.31,
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Malé akce s hudbou a jídlem přitahují turisty i místní do center měst."
+  },
+  {
+    "id": 38,
+    "title": "Digitální umění mění hranice",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.56,
+    "image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?auto=format&fit=crop&w=1200&q=80",
+    "text": "NFT a virtuální výstavy umožňují nové formy sdílení kreativity."
+  },
+  {
+    "id": 39,
+    "title": "Financování kultura klesá",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.72,
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Rozpočty na umění se krátí, což ohrožuje nezávislé divadla a orchestry."
+  },
+  {
+    "id": 40,
+    "title": "Opravy jako umění",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.34,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Workshopy učí lidem opravovat věci kreativně, což podporuje udržitelnost."
+  },
+  {
+    "id": 41,
+    "title": "Mentální zdraví v popředí",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.55,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Kampaně zvyšují povědomí o depresi a nabízejí bezplatnou podporu."
+  },
+  {
+    "id": 42,
+    "title": "Nedostatek léků v lékárnách",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1485841890310-6a055c88698a?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dodavatelské řetězce selhávají, což ohrožuje pacienty na základní terapii."
+  },
+  {
+    "id": 43,
+    "title": "Zdravé vaření pro rodiny",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=80",
+    "text": "Kurzy učí jednoduché recepty s čerstvými surovinami pro každodenní stravu."
+  },
+  {
+    "id": 44,
+    "title": "Falešné doplňky zdraví",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.78,
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=1200&q=80",
+    "text": "Online prodeje slibují zázraky, ale vedou k zdravotním komplikacím."
+  },
+  {
+    "id": 45,
+    "title": "Appky pro sledování kondice",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.51,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Uživatelé motivovaně cvičí díky gamifikovaným programům a statistikám."
+  },
+  {
+    "id": 46,
+    "title": "Virusové nákazy v nemocnicích",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Špatná hygiena vede k šíření infekcí mezi zranitelnými pacienty."
+  },
+  {
+    "id": 47,
+    "title": "Chůze na zdraví v parcích",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1459478309853-2c33a60058e7?auto=format&fit=crop&w=1200&q=80",
+    "text": "Organizované skupiny procházejí stezkami, což zlepšuje fyzickou i sociální pohodu."
+  },
+  {
+    "id": 48,
+    "title": "Znečištění ovzduší škodí dětem",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.89,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "text": "Studie ukazují vyšší riziko astmatu v průmyslových oblastech s vysokými emisemi."
+  },
+  {
+    "id": 49,
+    "title": "Yoga centra v městech",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1483691278019-cb7253bee49f?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dostupné lekce pomáhají lidem relaxovat a zlepšovat flexibilitu v každodenním životě."
+  },
+  {
+    "id": 50,
+    "title": "Nelegální experimenty s drogami",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.67,
+    "image": "https://images.unsplash.com/photo-1452724931113-5ab6340ce080?auto=format&fit=crop&w=1200&q=80",
+    "text": "Skupiny testují látky bez kontroly, což vede k vážným zdravotním incidentům."
+  },
+  {
+    "id": 51,
+    "title": "Sousedské sítě pomoci",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.43,
+    "image": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=800&q=80",
+    "text": "Aplikace spojují lidi pro vzájemnou pomoc s nákupy a opravami."
+  },
+  {
+    "id": 52,
+    "title": "Sociální izolace roste",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.6,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "text": "Digitální komunikace nahrazuje setkání, což zvyšuje osamělost v komunitách."
+  },
+  {
+    "id": 53,
+    "title": "Sdílené zahrady květí",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.37,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80",
+    "text": "Komunity pěstují zeleninu společně, což snižuje náklady a buduje vazby."
+  },
+  {
+    "id": 54,
+    "title": "Toxické debaty online",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.71,
+    "image": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=1200&q=80",
+    "text": "Agresivní komentáře vyčerpávají uživatele a ničí konstruktivní diskuse."
+  },
+  {
+    "id": 55,
+    "title": "Družstva pro starší lidi",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sousedé sdílejí odpovědnost za péči, což zlepšuje kvalitu života seniorů."
+  },
+  {
+    "id": 56,
+    "title": "Gig ekonomika ničí stabilitu",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.74,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Krátkodobé zakázky přinášejí nejistotu a nízké výdělky pracovníkům."
+  },
+  {
+    "id": 57,
+    "title": "Dobrovolníci mapují problémy",
+    "topic": "society",
+    "sentiment": "neutral",
+    "intensity": 0.45,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Aplikace sbírají data o dírcích a bezpečnosti od místních obyvatel."
+  },
+  {
+    "id": 58,
+    "title": "Malé byty zvyšují stres",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.65,
+    "image": "https://images.unsplash.com/photo-1478479474071-8a3014d422c8?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dostupné, ale úzké prostory vedou k pocitům klaustrofobie u obyvatel."
+  },
+  {
+    "id": 59,
+    "title": "Výměna služeb funguje",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.34,
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80",
+    "text": "Platformy umožňují barter služeb, což posiluje místní ekonomiku."
+  },
+  {
+    "id": 60,
+    "title": "Falešné zprávy dělí společnost",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=800&q=80",
+    "text": "Vírusové historky zvyšují napětí mezi různými skupinami v populaci."
+  },
+  {
+    "id": 61,
+    "title": "Místní volby oživují zájem",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.59,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vysoká účast ukazuje, že lidé chtějí mít řeč o svém okolí."
+  },
+  {
+    "id": 62,
+    "title": "Sliby politiků selhávají",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.83,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nerealizované projekty vedou k rozčarování a snížení důvěry."
+  },
+  {
+    "id": 63,
+    "title": "Zelené iniciativa v radách",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Noví členové prosazují cyklistické stezky a veřejnou zeleň."
+  },
+  {
+    "id": 64,
+    "title": "Dezinformace ovlivňují volby",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.73,
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sociální sítě plní lži, což matoucí voliče v klíčových otázkách."
+  },
+  {
+    "id": 65,
+    "title": "Mladí vedou kampaň",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.5,
+    "image": "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Aktivisté organizují akce za lepší vzdělávání a práci pro mládež."
+  },
+  {
+    "id": 66,
+    "title": "Zájmové skupiny blokují zákony",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.79,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Silné lobby zdržují reformy v oblasti daní a sociálních služeb."
+  },
+  {
+    "id": 67,
+    "title": "Hraniční dohody pomáhají",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Státy spolupracují na bezpečnosti a obchodu přes hranice."
+  },
+  {
+    "id": 68,
+    "title": "Deepfakes ničí důvěru",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80",
+    "text": "Falešné nahrávky politiků šíří chaos před důležitými rozhodnutími."
+  },
+  {
+    "id": 69,
+    "title": "Panel diskutuje o datech",
+    "topic": "politics",
+    "sentiment": "neutral",
+    "intensity": 0.42,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Občané radí, jak chránit osobní informace v digitální době."
+  },
+  {
+    "id": 70,
+    "title": "Protesty proti dohledu",
+    "topic": "politics",
+    "sentiment": "negative",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    "text": "Tisíce se bouří proti kamerám a sledování bez souhlasu."
+  },
+  {
+    "id": 71,
+    "title": "Mokřady filtrují vodu",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.52,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80",
+    "text": "Přirozené oblasti čistí odpadní vody a podporují divokou přírodu."
+  },
+  {
+    "id": 72,
+    "title": "Plasty dusí moře",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.72,
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "text": "Mikroplasty zabíjejí ryby a vstupují do potravního řetězce."
+  },
+  {
+    "id": 73,
+    "title": "Biodynamické hospodaření úspěšné",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+    "text": "Farmy bez chemie produkují zdravou půdu a odolnější plodiny."
+  },
+  {
+    "id": 74,
+    "title": "Požáry ničí lesy rychle",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.89,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Suché počasí zvyšuje riziko a ztráty na přírodě jsou obrovské."
+  },
+  {
+    "id": 75,
+    "title": "Robotické čističky testovány",
+    "topic": "ecology",
+    "sentiment": "neutral",
+    "intensity": 0.34,
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1200&q=80",
+    "text": "Zařízení sbírá odpad z parků, ale potřebuje lepší baterie."
+  },
+  {
+    "id": 76,
+    "title": "Geotermální energie se šíří",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.43,
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=80",
+    "text": "Podzemní teplo ohřívá domy bez emisí a je stabilní zdroj."
+  },
+  {
+    "id": 77,
+    "title": "Ochrana oceánů posílena",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.51,
+    "image": "https://images.unsplash.com/photo-1437382944886-45a9f73d4158?auto=format&fit=crop&w=1200&q=80",
+    "text": "Mezinárodní smlouvy zakazují rybolov v citlivých zónách."
+  },
+  {
+    "id": 78,
+    "title": "Biopaliva neřeší vše",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.67,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "text": "Výroba zabírá půdu od jídla a emise nejsou tak nízké."
+  },
+  {
+    "id": 79,
+    "title": "Urbaní včelařství kvete",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.4,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Včely na střechách opylují květiny a dodávají med místním."
+  },
+  {
+    "id": 80,
+    "title": "Búrky ohrožují pobřeží",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.82,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Silnější bouře erodují pláže a ničí domy u moře."
+  },
+  {
+    "id": 81,
+    "title": "Robotika v medicíně pomáhá",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.58,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Chirurgické roboty umožňují přesné operace s menším rizikem."
+  },
+  {
+    "id": 82,
+    "title": "Platformy využívají data",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.8,
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Osobní informace se prodávají bez vědomí uživatelů."
+  },
+  {
+    "id": 83,
+    "title": "Digitální detox ve školách",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.32,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "text": "Dny bez zařízení testují vliv na koncentraci dětí."
+  },
+  {
+    "id": 84,
+    "title": "Automatizace končí pracovníky",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1200&q=80",
+    "text": "Továrny zavádějí roboty, což zvyšuje nezaměstnanost."
+  },
+  {
+    "id": 85,
+    "title": "Linux pro úřady",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.46,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Bezplatný systém šetří peníze a zvyšuje nezávislost."
+  },
+  {
+    "id": 86,
+    "title": "Implantáty ohrožují svobodu",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.92,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Firmy sbírají myšlenky přes zařízení bez jasných pravidel."
+  },
+  {
+    "id": 87,
+    "title": "Wi-Fi v parcích",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1475906089153-644d9452ce87?auto=format&fit=crop&w=1200&q=80",
+    "text": "Veřejný přístup spojuje lidi a podporuje online vzdělávání."
+  },
+  {
+    "id": 88,
+    "title": "Bublina v tech investicích",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.71,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "text": "Přehřátý trh vede k krachu slibných startupů."
+  },
+  {
+    "id": 89,
+    "title": "Notifikační limity chrání čas",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.35,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Funkce omezují rušení a pomáhají soustředit se na důležité."
+  },
+  {
+    "id": 90,
+    "title": "Hlasové podvody rostou",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.89,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80",
+    "text": "AI imituje hlasy pro oklamání rodinných příslušníků."
+  },
+  {
+    "id": 91,
+    "title": "Teatr v komunitách",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.42,
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
+    "text": "Amatérské divadlo sdružuje lidi a vypráví místní příběhy."
+  },
+  {
+    "id": 92,
+    "title": "Honoráře pro hudebníky klesají",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Streamy platí málo, umělci bojují o přežití."
+  },
+  {
+    "id": 93,
+    "title": "Interaktivní expozice",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.3,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "text": "Muzea používají dotykové obrazovky pro lepší zážitek."
+  },
+  {
+    "id": 94,
+    "title": "Spor o umění v školách",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1200&q=80",
+    "text": "Řez v rozpočtu ohrožuje hodiny výtvarné výchovy."
+  },
+  {
+    "id": 95,
+    "title": "Multikulturní festivaly",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+    "text": "Akce představují jídlo a tanec z různých zemí."
+  },
+  {
+    "id": 96,
+    "title": "Binge-watching škodí",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.64,
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
+    "text": "Celonoční sledování vede k únavě a ztrátě spánku."
+  },
+  {
+    "id": 97,
+    "title": "Fotoknigy z minulosti",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.33,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sbírky fotografií dokumentují změny v městském životě."
+  },
+  {
+    "id": 98,
+    "title": "Live streamy koncertů",
+    "topic": "culture",
+    "sentiment": "neutral",
+    "intensity": 0.58,
+    "image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?auto=format&fit=crop&w=1200&q=80",
+    "text": "Virtuální účast umožňuje fanouškům být blízko hvězdám."
+  },
+  {
+    "id": 99,
+    "title": "Dotace pro malé akce",
+    "topic": "culture",
+    "sentiment": "negative",
+    "intensity": 0.74,
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?auto=format&fit=crop&w=1200&q=80",
+    "text": "Velké eventy dostávají více, malé zůstávají bez podpory."
+  },
+  {
+    "id": 100,
+    "title": "Recyklační workshopy",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=80",
+    "text": "Lidé se učí dělat umění z odpadu a šetřit planetu."
+  },
+  {
+    "id": 101,
+    "title": "Občanská iniciativa slaví úspěch",
+    "topic": "politics",
+    "sentiment": "positive",
+    "intensity": 0.54,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "text": "Petice za lepší podmínky ve školství přilákala rekordní počet podpisů."
+  },
+  {
+    "id": 102,
+    "title": "Dezinformace na sítích straší seniory",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.78,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80",
+    "text": "Falešné zprávy se šíří rychle zejména mezi staršími uživateli internetu."
+  },
+  {
+    "id": 103,
+    "title": "Zelená energie dobývá trh",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.49,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?auto=format&fit=crop&w=1200&q=80",
+    "text": "Počet domácností s fotovoltaikou letos výrazně vzrostl."
+  },
+  {
+    "id": 104,
+    "title": "Kyberútok ohrozil nemocnice v regionu",
+    "topic": "technology",
+    "sentiment": "negative",
+    "intensity": 0.87,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Hackeři zaútočili na zdravotnickou síť, ale pacienti nebyli ohroženi."
+  },
+  {
+    "id": 105,
+    "title": "Komunitní zahrady spojují generace",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.46,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Senioři i děti společně pěstují zeleninu i květiny ve veřejných parcích."
+  },
+  {
+    "id": 106,
+    "title": "Zdravotníci zachraňují životy na dálku",
+    "topic": "health",
+    "sentiment": "positive",
+    "intensity": 0.53,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80",
+    "text": "Telemedicína umožňuje konzultace lékařů i v odlehlých oblastech."
+  },
+  {
+    "id": 107,
+    "title": "Ekologické protesty ochromily dopravu",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.74,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "text": "Blokády ulic mají upozornit na nutnost klimatických reforem."
+  },
+  {
+    "id": 108,
+    "title": "Mládež organizuje debatní kroužky",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Diskuze na školách zvyšují zájem o veřejné dění."
+  },
+  {
+    "id": 109,
+    "title": "Rychlý nárůst duševních potíží",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "text": "Experti upozorňují na rostoucí výskyt úzkostí a depresí mezi mladými."
+  },
+  {
+    "id": 110,
+    "title": "Chytré technologie šetří energii v domácnostech",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.47,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Nové aplikace pomáhají snižovat spotřebu elektřiny a vody."
+  },
+  {
+    "id": 111,
+    "title": "Nárůst kyberšikany na školách",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.78,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80",
+    "text": "Školy řeší více incidentů souvisejících s šikanou online."
+  },
+  {
+    "id": 112,
+    "title": "Nové parky ve městech lákají rodiny",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.38,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "text": "Stromy a přírodní dětská hřiště zvyšují kvalitu života ve městech."
+  },
+  {
+    "id": 113,
+    "title": "Ceny potravin nadále rostou",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.83,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80",
+    "text": "Inflace a sucha zvyšují náklady na základní potraviny."
+  },
+  {
+    "id": 114,
+    "title": "Startupy podporují cirkulární ekonomiku",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?auto=format&fit=crop&w=1200&q=80",
+    "text": "Firmy vyvíjejí aplikace pro sdílené využívání věcí a recyklaci."
+  },
+  {
+    "id": 115,
+    "title": "Knihovny získaly nové technologie",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.31,
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&q=80",
+    "text": "Self-servisní skenery a e-knihy přilákaly nové čtenáře."
+  },
+  {
+    "id": 116,
+    "title": "Střešní zahrady chladí města",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Zelené střechy snižují teploty a podporují biodiverzitu."
+  },
+  {
+    "id": 117,
+    "title": "Technologické firmy zavádí 4denní pracovní týden",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.48,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Kratší pracovní doba zlepšuje produktivitu i pohodu zaměstnanců."
+  },
+  {
+    "id": 118,
+    "title": "Nárůst psychických poruch po pandemii",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.84,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80",
+    "text": "Zdravotníci varují před následky dlouhodobé izolace."
+  },
+  {
+    "id": 119,
+    "title": "Veřejná doprava je levnější díky dotacím",
+    "topic": "society",
+    "sentiment": "positive",
+    "intensity": 0.45,
+    "image": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=800&q=80",
+    "text": "Lidé častěji jezdí hromadně a šetří dopravní náklady."
+  },
+  {
+    "id": 120,
+    "title": "Zásoby vody jsou kriticky nízké",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.86,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?auto=format&fit=crop&w=1200&q=80",
+    "text": "Sucha vedou ke snížení hladiny řek a omezení využití vody."
+  },
+  {
+    "id": 121,
+    "title": "Stárnoucí populace mění priority států",
+    "topic": "society",
+    "sentiment": "neutral",
+    "intensity": 0.41,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Vlády připravují nové programy pro podporu seniorů."
+  },
+  {
+    "id": 122,
+    "title": "Festival dobrovolnictví láká mladé",
+    "topic": "culture",
+    "sentiment": "positive",
+    "intensity": 0.36,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80",
+    "text": "Mladí lidé se masově zapojují do komunitních projektů."
+  },
+  {
+    "id": 123,
+    "title": "Vědci varují před novými viry",
+    "topic": "health",
+    "sentiment": "negative",
+    "intensity": 0.77,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80",
+    "text": "Výskyt nových onemocnění zvyšuje tlak na zdravotnický systém."
+  },
+  {
+    "id": 124,
+    "title": "Sdílená doprava pomáhá ekologii",
+    "topic": "ecology",
+    "sentiment": "positive",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "text": "Carsharing snižuje počet aut a ulehčuje ovzduší ve městech."
+  },
+  {
+    "id": 125,
+    "title": "Nedostatek učitelů v malých městech",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.71,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80",
+    "text": "Školy hledají způsoby, jak motivovat nové pedagogy."
+  },
+  {
+    "id": 126,
+    "title": "Nástup AI v právních službách",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.51,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Automatizace urychluje zpracování běžných právních dokumentů."
+  },
+  {
+    "id": 127,
+    "title": "Vědecká komunita oceňuje nové objevy",
+    "topic": "technology",
+    "sentiment": "neutral",
+    "intensity": 0.39,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    "text": "Pokrok v oblasti biotechnologií přináší nové možnosti."
+  },
+  {
+    "id": 128,
+    "title": "Demonstrující požadují dostupné bydlení",
+    "topic": "society",
+    "sentiment": "negative",
+    "intensity": 0.81,
+    "image": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=800&q=80",
+    "text": "Ceny nemovitostí rostou rychleji než příjmy domácností."
+  },
+  {
+    "id": 129,
+    "title": "Online vzdělávání stále populárnější",
+    "topic": "technology",
+    "sentiment": "positive",
+    "intensity": 0.44,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80",
+    "text": "Digitální kurzy nabízejí nové příležitosti pro všechny věkové skupiny."
+  },
+  {
+    "id": 130,
+    "title": "Hasiči bojují s rozsáhlými požáry",
+    "topic": "ecology",
+    "sentiment": "negative",
+    "intensity": 0.88,
+    "image": "https://images.unsplash.com/photo-1465101162946-4377e57745c3?auto=format&fit=crop&w=1200&q=80",
+    "text": "Změna klimatu vede k častějším a ničivějším požárům."
+  }
+]
